@@ -37,7 +37,7 @@ global.packname = 'ANGGAZYY' // ubah aja
 global.ownerr = ['AnggaztySilenty'] // ubaha aja
 global.linkgrupss = "https://chat.whatsapp.com/KoEzXGdj9CQA3QzoEjyNlc"
 global.author = 'ANGGAZYY' //ubah aja
-global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
+global.sessionName = 'haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
 
